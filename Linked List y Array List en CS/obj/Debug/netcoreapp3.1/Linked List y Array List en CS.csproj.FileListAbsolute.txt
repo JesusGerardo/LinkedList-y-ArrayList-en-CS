@@ -1,0 +1,13 @@
+C:\Users\jesus\Desktop\JesusGoku13\Tecnología Orientada a Objetos\Linked List y Array List en CS\Linked List y Array List en CS\bin\Debug\netcoreapp3.1\Linked List y Array List en CS.exe
+C:\Users\jesus\Desktop\JesusGoku13\Tecnología Orientada a Objetos\Linked List y Array List en CS\Linked List y Array List en CS\bin\Debug\netcoreapp3.1\Linked List y Array List en CS.deps.json
+C:\Users\jesus\Desktop\JesusGoku13\Tecnología Orientada a Objetos\Linked List y Array List en CS\Linked List y Array List en CS\bin\Debug\netcoreapp3.1\Linked List y Array List en CS.runtimeconfig.json
+C:\Users\jesus\Desktop\JesusGoku13\Tecnología Orientada a Objetos\Linked List y Array List en CS\Linked List y Array List en CS\bin\Debug\netcoreapp3.1\Linked List y Array List en CS.runtimeconfig.dev.json
+C:\Users\jesus\Desktop\JesusGoku13\Tecnología Orientada a Objetos\Linked List y Array List en CS\Linked List y Array List en CS\bin\Debug\netcoreapp3.1\Linked List y Array List en CS.dll
+C:\Users\jesus\Desktop\JesusGoku13\Tecnología Orientada a Objetos\Linked List y Array List en CS\Linked List y Array List en CS\bin\Debug\netcoreapp3.1\Linked List y Array List en CS.pdb
+C:\Users\jesus\Desktop\JesusGoku13\Tecnología Orientada a Objetos\Linked List y Array List en CS\Linked List y Array List en CS\obj\Debug\netcoreapp3.1\Linked List y Array List en CS.csprojAssemblyReference.cache
+C:\Users\jesus\Desktop\JesusGoku13\Tecnología Orientada a Objetos\Linked List y Array List en CS\Linked List y Array List en CS\obj\Debug\netcoreapp3.1\Linked List y Array List en CS.AssemblyInfoInputs.cache
+C:\Users\jesus\Desktop\JesusGoku13\Tecnología Orientada a Objetos\Linked List y Array List en CS\Linked List y Array List en CS\obj\Debug\netcoreapp3.1\Linked List y Array List en CS.AssemblyInfo.cs
+C:\Users\jesus\Desktop\JesusGoku13\Tecnología Orientada a Objetos\Linked List y Array List en CS\Linked List y Array List en CS\obj\Debug\netcoreapp3.1\Linked List y Array List en CS.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Desktop\JesusGoku13\Tecnología Orientada a Objetos\Linked List y Array List en CS\Linked List y Array List en CS\obj\Debug\netcoreapp3.1\Linked List y Array List en CS.dll
+C:\Users\jesus\Desktop\JesusGoku13\Tecnología Orientada a Objetos\Linked List y Array List en CS\Linked List y Array List en CS\obj\Debug\netcoreapp3.1\Linked List y Array List en CS.pdb
+C:\Users\jesus\Desktop\JesusGoku13\Tecnología Orientada a Objetos\Linked List y Array List en CS\Linked List y Array List en CS\obj\Debug\netcoreapp3.1\Linked List y Array List en CS.genruntimeconfig.cache
